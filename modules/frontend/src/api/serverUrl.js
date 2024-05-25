@@ -1,0 +1,1 @@
+export default "https://uc8rvsf201.execute-api.eu-central-1.amazonaws.com/test";
